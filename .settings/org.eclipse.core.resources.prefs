@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//User/sample_threadx.c=UTF-8
+encoding//User/task.c=UTF-8
+encoding//threadx/ports/risc-v32/gnu/src/tx_thread_context_restore.s=UTF-8
